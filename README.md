@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1572-matrix-diagonal-sum](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1572-matrix-diagonal-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0054-spiral-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
