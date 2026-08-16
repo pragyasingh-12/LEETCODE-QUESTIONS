@@ -104,5 +104,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1486-xor-operation-in-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1486-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2235-add-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
