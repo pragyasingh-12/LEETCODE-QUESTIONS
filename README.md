@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0283-move-zeroes) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Stack
 |  |
