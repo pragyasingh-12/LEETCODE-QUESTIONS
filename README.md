@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
