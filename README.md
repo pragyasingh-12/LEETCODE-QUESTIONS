@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1572-matrix-diagonal-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1929-concatenation-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1572-matrix-diagonal-sum) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Simulation
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1929-concatenation-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Math
 |  |
 | ------- |
