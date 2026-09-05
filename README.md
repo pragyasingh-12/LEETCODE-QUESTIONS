@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
