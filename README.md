@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0326-power-of-three) |
 | [0877-stone-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1025-divisor-game) |
 | [1486-xor-operation-in-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1486-xor-operation-in-an-array) |
@@ -201,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
