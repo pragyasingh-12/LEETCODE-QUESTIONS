@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3024-type-of-triangle](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3024-type-of-triangle) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3875-construct-uniform-parity-array-i) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Sorting
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0344-reverse-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Stack
 |  |
 | ------- |
