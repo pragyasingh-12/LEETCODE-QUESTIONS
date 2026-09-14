@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1025-divisor-game) |
 | [1486-xor-operation-in-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1486-xor-operation-in-an-array) |
@@ -226,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0509-fibonacci-number) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
