@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Prefix Sum
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0344-reverse-string) |
+| [0771-jewels-and-stones](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Brainteaser
