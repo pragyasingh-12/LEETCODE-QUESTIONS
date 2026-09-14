@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0912-sort-an-array) |
 ## Matrix
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -246,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0836-rectangle-overlap) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
