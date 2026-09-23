@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1025-divisor-game) |
 | [1486-xor-operation-in-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1903-largest-odd-number-in-string](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2769-find-the-maximum-achievable-number) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1496-path-crossing) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1903-largest-odd-number-in-string](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Brainteaser
@@ -307,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
