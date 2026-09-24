@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2643-row-with-maximum-ones](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2643-row-with-maximum-ones) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1539-kth-missing-positive-number) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Merge Sort
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0912-sort-an-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
 | ------- |
