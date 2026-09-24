@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0278-first-bad-version) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1539-kth-missing-positive-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -316,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
