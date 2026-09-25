@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1025-divisor-game) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1486-xor-operation-in-an-array) |
 ## Polygons
