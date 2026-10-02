@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2319-check-if-matrix-is-x-matrix) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3024-type-of-triangle](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3024-type-of-triangle) |
 ## Heap (Priority Queue)
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0374-guess-number-higher-or-lower) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Merge Sort
 |  |
