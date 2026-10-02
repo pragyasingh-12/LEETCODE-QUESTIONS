@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0693-binary-number-with-alternating-bits) |
+| [1009-complement-of-base-10-integer](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1009-complement-of-base-10-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1486-xor-operation-in-an-array) |
 ## Polygons
 |  |
