@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1051-height-checker) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1470-shuffle-the-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3024-type-of-triangle](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3024-type-of-triangle) |
 ## Heap (Priority Queue)
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1051-height-checker) |
 | [1748-sum-of-unique-elements](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1748-sum-of-unique-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
@@ -362,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0278-first-bad-version) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
