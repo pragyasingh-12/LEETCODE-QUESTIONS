@@ -407,4 +407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0324-wiggle-sort-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
