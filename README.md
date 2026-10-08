@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1051-height-checker) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1539-kth-missing-positive-number) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0771-jewels-and-stones) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1496-path-crossing](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1496-path-crossing) |
 | [1748-sum-of-unique-elements](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1051-height-checker) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1748-sum-of-unique-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
