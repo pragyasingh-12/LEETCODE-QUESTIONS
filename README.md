@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3945-digit-frequency-score](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3945-digit-frequency-score) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3024-type-of-triangle) |
 | [3870-count-commas-in-range](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3875-construct-uniform-parity-array-i) |
+| [3945-digit-frequency-score](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3945-digit-frequency-score) |
 | [3959-check-good-integer](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3959-check-good-integer) |
 ## Bit Manipulation
 |  |
