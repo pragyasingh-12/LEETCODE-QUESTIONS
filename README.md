@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0867-transpose-matrix) |
+| [1688-count-of-matches-in-tournament](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1025-divisor-game) |
 | [1486-xor-operation-in-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1486-xor-operation-in-an-array) |
+| [1688-count-of-matches-in-tournament](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2235-add-two-integers) |
