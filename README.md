@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
+| [1952-three-divisors](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2485-find-the-pivot-integer) |
 | [2525-categorize-box-according-to-criteria](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2525-categorize-box-according-to-criteria) |
@@ -422,4 +423,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0175-combine-two-tables) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
