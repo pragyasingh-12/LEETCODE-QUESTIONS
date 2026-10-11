@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2769-find-the-maximum-achievable-number) |
 | [3024-type-of-triangle](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3024-type-of-triangle) |
+| [3783-mirror-distance-of-an-integer](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3875-construct-uniform-parity-array-i) |
 | [3945-digit-frequency-score](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3945-digit-frequency-score) |
