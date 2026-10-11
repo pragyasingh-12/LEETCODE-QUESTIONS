@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2319-check-if-matrix-is-x-matrix](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2643-row-with-maximum-ones](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2643-row-with-maximum-ones) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1952-three-divisors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |
