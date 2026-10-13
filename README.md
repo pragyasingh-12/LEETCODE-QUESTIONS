@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2549-count-distinct-numbers-on-board](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2549-count-distinct-numbers-on-board) |
 | [2643-row-with-maximum-ones](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1496-path-crossing) |
 | [1748-sum-of-unique-elements](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2549-count-distinct-numbers-on-board](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2549-count-distinct-numbers-on-board) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3945-digit-frequency-score](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3945-digit-frequency-score) |
 ## Prefix Sum
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2549-count-distinct-numbers-on-board](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2549-count-distinct-numbers-on-board) |
 | [3959-check-good-integer](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3959-check-good-integer) |
 ## Math
 |  |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2485-find-the-pivot-integer) |
 | [2525-categorize-box-according-to-criteria](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2525-categorize-box-according-to-criteria) |
+| [2549-count-distinct-numbers-on-board](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2549-count-distinct-numbers-on-board) |
 | [2652-sum-multiples](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2769-find-the-maximum-achievable-number) |
 | [3024-type-of-triangle](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3024-type-of-triangle) |
