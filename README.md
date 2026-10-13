@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3024-type-of-triangle](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3024-type-of-triangle) |
 | [3033-modify-the-matrix](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3033-modify-the-matrix) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3875-construct-uniform-parity-array-i) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Sorting
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2769-find-the-maximum-achievable-number) |
 | [3024-type-of-triangle](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3024-type-of-triangle) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3875-construct-uniform-parity-array-i) |
