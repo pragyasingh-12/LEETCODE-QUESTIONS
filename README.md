@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0867-transpose-matrix) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0414-third-maximum-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1051-height-checker) |
