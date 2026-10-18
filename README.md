@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3024-type-of-triangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3875-construct-uniform-parity-array-i) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1952-three-divisors) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prime Factorization
 |  |
 | ------- |
