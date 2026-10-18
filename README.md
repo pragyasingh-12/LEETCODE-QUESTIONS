@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1837-sum-of-digits-in-base-k](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2235-add-two-integers) |
