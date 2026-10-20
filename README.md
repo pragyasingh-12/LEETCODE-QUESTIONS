@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3033-modify-the-matrix](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3033-modify-the-matrix) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3668-restore-finishing-order) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3875-construct-uniform-parity-array-i) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2769-find-the-maximum-achievable-number) |
 | [3024-type-of-triangle](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3024-type-of-triangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3783-mirror-distance-of-an-integer) |
