@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3024-type-of-triangle](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3024-type-of-triangle) |
 | [3033-modify-the-matrix](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3033-modify-the-matrix) |
+| [3074-apple-redistribution-into-boxes](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3074-apple-redistribution-into-boxes) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3024-type-of-triangle](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3024-type-of-triangle) |
+| [3074-apple-redistribution-into-boxes](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3074-apple-redistribution-into-boxes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0324-wiggle-sort-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
+| [3074-apple-redistribution-into-boxes](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3074-apple-redistribution-into-boxes) |
 ## Interactive
 |  |
 | ------- |
