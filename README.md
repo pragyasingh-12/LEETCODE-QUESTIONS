@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0509-fibonacci-number) |
+| [0728-self-dividing-numbers](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1025-divisor-game) |
