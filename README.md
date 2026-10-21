@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2549-count-distinct-numbers-on-board](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2549-count-distinct-numbers-on-board) |
 | [2643-row-with-maximum-ones](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2643-row-with-maximum-ones) |
+| [2733-neither-minimum-nor-maximum](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2733-neither-minimum-nor-maximum) |
 | [3024-type-of-triangle](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3074-apple-redistribution-into-boxes) |
 ## Heap (Priority Queue)
