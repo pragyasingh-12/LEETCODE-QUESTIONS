@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0771-jewels-and-stones) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1025-divisor-game) |
 | [1486-xor-operation-in-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1688-count-of-matches-in-tournament) |
@@ -486,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1952-three-divisors) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
