@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1952-three-divisors) |
 | [2169-count-operations-to-obtain-zero](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2235-add-two-integers) |
+| [2427-number-of-common-factors](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2427-number-of-common-factors) |
 | [2485-find-the-pivot-integer](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2525-categorize-box-according-to-criteria](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2525-categorize-box-according-to-criteria) |
@@ -487,12 +488,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prime Factorization
 |  |
@@ -515,4 +518,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0204-count-primes) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
