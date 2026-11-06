@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3783-mirror-distance-of-an-integer) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0832-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1009-complement-of-base-10-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1486-xor-operation-in-an-array) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Polygons
 |  |
 | ------- |
