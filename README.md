@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0367-valid-perfect-square) |
+| [0504-base-7](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0836-rectangle-overlap) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0443-string-compression) |
+| [0504-base-7](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0504-base-7) |
 | [0771-jewels-and-stones](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0796-rotate-string) |
 | [1446-consecutive-characters](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1446-consecutive-characters) |
