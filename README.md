@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0217-contains-duplicate) |
@@ -549,4 +551,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0455-assign-cookies) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
