@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0766-toeplitz-matrix) |
@@ -555,4 +556,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
