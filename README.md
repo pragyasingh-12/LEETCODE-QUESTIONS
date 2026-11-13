@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2974-minimum-number-game) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2733-neither-minimum-nor-maximum) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3074-apple-redistribution-into-boxes) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Stack
 |  |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Merge Sort
 |  |
 | ------- |
