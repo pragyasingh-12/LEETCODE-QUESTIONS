@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2239-find-closest-number-to-zero](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2239-find-closest-number-to-zero) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2549-count-distinct-numbers-on-board](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2549-count-distinct-numbers-on-board) |
 | [2643-row-with-maximum-ones](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2643-row-with-maximum-ones) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2643-row-with-maximum-ones](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2643-row-with-maximum-ones) |
 | [3033-modify-the-matrix](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3033-modify-the-matrix) |
 ## Simulation
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2169-count-operations-to-obtain-zero) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2549-count-distinct-numbers-on-board](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2549-count-distinct-numbers-on-board) |
 | [2974-minimum-number-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2974-minimum-number-game) |
 | [3959-check-good-integer](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3959-check-good-integer) |
