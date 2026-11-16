@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1929-concatenation-of-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1496-path-crossing) |
 | [1748-sum-of-unique-elements](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2549-count-distinct-numbers-on-board) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1748-sum-of-unique-elements) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3467-transform-array-by-parity](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3467-transform-array-by-parity) |
