@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1025-divisor-game) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0832-flipping-an-image) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0443-string-compression) |
 | [0504-base-7](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0504-base-7) |
 | [0771-jewels-and-stones](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0771-jewels-and-stones) |
