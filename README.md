@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1920-build-array-from-permutation](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1496-path-crossing) |
 | [1748-sum-of-unique-elements](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2549-count-distinct-numbers-on-board) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1732-find-the-highest-altitude) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2485-find-the-pivot-integer](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2485-find-the-pivot-integer) |
 ## Two Pointers
 |  |
