@@ -1,17 +1,21 @@
 class Solution {
     public boolean isCovered(int[][] ranges, int left, int right) {
-        Arrays.sort(ranges, (x, y) -> Integer.compare(x[0], y[0]));
-
-        for (int[] range : ranges) {
-            if (left > right) {
-                return true;
+        for(int x=left;x<=right;x++) 
+        {
+            boolean isFound=false;
+            for(int[] range:ranges) {
+                if(x>=range[0] && x<=range[1]) 
+                {
+                    isFound=true;
+                    break;
+                }
             }
-            if (range[0] > left) {
+            
+            if(!isFound) 
+            {
                 return false;
             }
-            left = Math.max(left, range[1] + 1);
         }
-
-        return left > right;
+        return true;
     }
 }
