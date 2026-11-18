@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3895-count-digit-appearances) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3978-unique-middle-element](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3978-unique-middle-element) |
 ## Sorting
 |  |
 | ------- |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3467-transform-array-by-parity](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3467-transform-array-by-parity) |
+| [3978-unique-middle-element](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3978-unique-middle-element) |
 ## Matrix
 |  |
 | ------- |
