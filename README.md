@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2169-count-operations-to-obtain-zero) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2549-count-distinct-numbers-on-board](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2549-count-distinct-numbers-on-board) |
 | [2974-minimum-number-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2974-minimum-number-game) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2129-capitalize-the-title) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Brainteaser
 |  |
