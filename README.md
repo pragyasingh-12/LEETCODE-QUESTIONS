@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2396-strictly-palindromic-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Stack
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1952-three-divisors) |
 | [2169-count-operations-to-obtain-zero](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2396-strictly-palindromic-number) |
 | [2427-number-of-common-factors](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2427-number-of-common-factors) |
 | [2485-find-the-pivot-integer](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1025-divisor-game) |
+| [2396-strictly-palindromic-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
