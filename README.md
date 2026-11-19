@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2549-count-distinct-numbers-on-board](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2549-count-distinct-numbers-on-board) |
 | [2974-minimum-number-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2974-minimum-number-game) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3959-check-good-integer](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3959-check-good-integer) |
 ## Math
 |  |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3370-smallest-number-with-all-set-bits](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3783-mirror-distance-of-an-integer](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3875-construct-uniform-parity-array-i) |
