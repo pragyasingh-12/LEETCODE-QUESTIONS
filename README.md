@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0735-asteroid-collision) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0832-flipping-an-image) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1688-count-of-matches-in-tournament) |
