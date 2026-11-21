@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3024-type-of-triangle](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3024-type-of-triangle) |
 | [3033-modify-the-matrix](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3033-modify-the-matrix) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3074-apple-redistribution-into-boxes](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3074-apple-redistribution-into-boxes) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3024-type-of-triangle) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3074-apple-redistribution-into-boxes](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3074-apple-redistribution-into-boxes) |
 | [3467-transform-array-by-parity](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3467-transform-array-by-parity) |
 ## Heap (Priority Queue)
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1025-divisor-game) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Hash Table
 |  |
 | ------- |
