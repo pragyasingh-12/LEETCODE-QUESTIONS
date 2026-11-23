@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1539-kth-missing-positive-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1539-kth-missing-positive-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1572-matrix-diagonal-sum](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1572-matrix-diagonal-sum) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0324-wiggle-sort-ii) |
 | [0455-assign-cookies](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/0455-assign-cookies) |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1903-largest-odd-number-in-string](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/pragyasingh-12/LEETCODE-QUESTIONS/tree/master/2567-minimum-score-by-changing-two-elements) |
